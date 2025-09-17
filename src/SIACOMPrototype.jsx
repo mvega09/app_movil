@@ -15,7 +15,7 @@ const SAMPLE_PATIENTS = [
     name: "Ana Pérez",
     age: 48,
     room: "UCI-12",
-    photo: "https://via.placeholder.com/120x120.png?text=Ana",
+    photo: "https://img.freepik.com/foto-gratis/retrato-mujer-joven-expresiva_1258-48167.jpg?text=Ana",
     status: "En cirugía",
     contacts: [
       { id: 1, name: "Carlos Pérez", phone: "+57 300 123 4567", relation: "Esposo" },
@@ -30,7 +30,7 @@ const SAMPLE_PATIENTS = [
     name: "Juan Gómez",
     age: 62,
     room: "UCI-03",
-    photo: "https://via.placeholder.com/120x120.png?text=Juan",
+    photo: "https://plus.unsplash.com/premium_photo-1682096259050-361e2989706d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9tYnJlJTIwam92ZW58ZW58MHx8MHx8fDA%3D?text=Juan",
     status: "Recuperación",
     contacts: [
       { id: 2, name: "María López", phone: "+57 313 765 4321", relation: "Hija" },
